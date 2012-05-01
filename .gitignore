@@ -1,0 +1,8 @@
+Makefile
+cracklib.so
+mkmf.log
+pkg/**
+rbcrack.h
+rbcrack.o
+ruby-password.gemspec
+
